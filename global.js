@@ -1,0 +1,2 @@
+console.log('Hello World');
+global.console.log('Hello World from global');
